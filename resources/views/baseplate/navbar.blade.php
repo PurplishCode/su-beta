@@ -5,7 +5,7 @@
 <div class="d-flex align-items-center justify-content-between">
     <a href="" class="logo d-flex justify-content-center">
         <img src="{{ asset('logo.PNG')}}" alt="">
-        <span class="d-lg-block d-none px-3">SiegeAlbus</span>
+        <span class="d-lg-block d-none px-3">SiegeUni</span>
     </a>
     <i class="bi bi-list toggle-sidebar-btn"></i>
 </div>

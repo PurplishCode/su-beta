@@ -72,7 +72,7 @@
                         </div>
                         @empty
                         <div class="text-center">
-                            <p class="text-muted">Be the first to comment!</p>
+                            <p class="text-muted pt-3">Be the first to comment!</p>
                         </div>
                         @endforelse
                     </div>

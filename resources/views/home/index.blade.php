@@ -8,7 +8,7 @@
 
 <style>
     .background-images {
-	background-image: url({{ asset('assets/lading2.jpg') }}); background-repeat: no-repeat;position: relative;background-size: cover;box-shadow:0px 3px 17px  rgba(0,0,0,1);
+	background-image: url({{ asset('assets/blur.jpg') }}); background-repeat: no-repeat;position: relative;background-size: cover;box-shadow:0px 3px 17px  rgba(0,0,0,1);
 
 }
 </style>
@@ -34,7 +34,7 @@
                 <div class="p-lg-3 my-4 judul"><h1 class="display-3 fw-bold" style="z-index: 1;">SiegeU</h1>
           
        
-                    <blockquote class="blackquote"><p class="lead mt-1 fw-bold" style="">Different Album Across the web!</p></blockquote></div>
+                    <blockquote class="blackquote"><p class="lead mt-1 fw-bold" style="">Plethora of picture across the website!</p></blockquote></div>
                 <div>   
                     {{-- <a class="btn btn-lg text-white mr-2 p-lg btn-start" href="{{ url("/login-user") }}" style="box-shadow: 12px;background-color: purple;border-radius: 15px;">Explore!</a>    --}}
                 <div class="mt-3">   <div class="sub-judul fw-bold d-flex" style="color:#f8f8f8; font-family:;">"Welcome to Siege Uni.</div>
